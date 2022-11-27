@@ -17,7 +17,7 @@
 # Announces the provided message on the specified speaker.
 
 blueprint:
-  name: "Text-to-Speech on Sonos"
+  name: "Local Media Play on Sonos"
   description:
     This blueprint is used to add a script that will say messages on Sonos speakers. The script
     handles oddities to ensure a proper experience including saving/restore state, handling
